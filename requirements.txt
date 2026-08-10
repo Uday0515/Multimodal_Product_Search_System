@@ -1,0 +1,14 @@
+torch
+torchvision
+fastapi
+uvicorn
+streamlit
+numpy
+pandas
+Pillow
+tqdm
+requests
+faiss-cpu
+mlflow
+clip @ git+https://github.com/openai/CLIP.git
+python-multipart
