@@ -18,7 +18,7 @@ import clip
 from PIL import Image
 from tqdm import tqdm
 
-# ── paths ──────────────────────────────────────────────────────────────────────
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMAGES_DIR   = os.path.join(ROOT, "data", "fashion-dataset", "images")
 ARTIFACTS    = os.path.join(ROOT, "artifacts")
